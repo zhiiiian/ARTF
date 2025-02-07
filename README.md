@@ -37,7 +37,7 @@ Lastly, install [Timesformer](https://github.com/facebookresearch/TimeSformer?ta
 
 We evaluate our model on [UESTC-MMEA-CL](https://ivipclab.github.io/publication_uestc-mmea-cl/mmea-cl/), which is the first multimodal dataset for continual egocentric activity recognition. You can download this dataset from its homepage and put them under the holder `dataset`. The file structure would look like:
 
-```bash
+```
 ARTF/
 |-- backbone/
 |-- convs/
