@@ -20,7 +20,7 @@ cd ARTF
 Firstly, you should make a new environment with python>=3.6, for example:
 
 ```
-conda create -n cmr_mfn python=3.8
+conda create -n artf python=3.8
 ```
 
 Next, you can download pytorch from official site, for example:
