@@ -11,8 +11,8 @@ The code of the paper "Adversarially Regularized Tri-Transformer Fusion for Cont
 ### Clone
 
 ```
-git clone https://github.com/Hanna-W/CMR-MFN.git
-cd CMR-MFN
+git clone https://github.com/zhiiiian/ARTF.git
+cd ARTF
 ```
 
 ### Environment Configuration
@@ -53,10 +53,8 @@ ARTF/
 |-- exps/
 |-- models/
 |-- ops/
-|-- pretrain/
 |-- TimeSformer/
 |-- utils/
-|-- pretrain/
 |-- video_records/
 |-- main.py
 |-- model_T.py
